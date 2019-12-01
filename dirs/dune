@@ -1,0 +1,29 @@
+
+(rule
+  (targets a.ml)
+  (deps a.iml)
+   (action
+    (with-stdout-to a.ml
+       (run imandra-extract a.iml))))
+
+(rule
+  (targets b.ml)
+  (deps b.iml)
+   (action
+    (with-stdout-to b.ml
+       (run imandra-extract b.iml))))
+
+(rule
+  (targets c.ml)
+  (deps c.iml)
+   (action
+    (with-stdout-to c.ml
+       (run imandra-extract c.iml))))
+
+(library
+  (name  a)
+  (public_name foo.a)
+  (wrapped  false)
+  (flags (:standard -warn-error -a-27))
+  (libraries imandra-base.prelude imandra-base.interactive)
+)
