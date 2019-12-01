@@ -1,0 +1,4 @@
+[@@@import "../dirs2/a.iml"];;
+
+open A;; 
+let c x = a x*2;;

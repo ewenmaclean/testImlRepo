@@ -1,0 +1,84 @@
+- : unit = ()
+Findlib has been successfully loaded. Additional directives:
+  #require "package";;      to load a package
+  #list;;                   to list the available packages
+  #camlp4o;;                to load camlp4 (standard syntax)
+  #camlp4r;;                to load camlp4 (revised syntax)
+  #predicates "p,q,...";;   to set these predicates
+  Topfind.reset();;         to force that packages will be reloaded
+  #thread;;                 to enable threads
+
+- : unit = ()
+/Users/ewenmaclean/.opam/imandra/lib/bytes: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/zip: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/camlzip: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/ocaml/compiler-libs: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/containers/monomorphic: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/result: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/uchar: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/containers: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/sha: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/zarith: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/imandra-base/util: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/octavius: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/uuidm: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/easy-format: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/biniou: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/yojson: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/imandra-base/surface: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/imandra-base/syntax: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/curly: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/findlib: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/imandra-base/codegen: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/imandra-base/protocol: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/menhirLib: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/ppx_derivers: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/ocaml-migrate-parsetree: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/imandra-reason-parser: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/imandra-base/reason: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/linenoise: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/num-top: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/num: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/imandra-base/interactive: added to search path
+- : unit = ()
+Findlib has been successfully loaded. Additional directives:
+  #require "package";;      to load a package
+  #list;;                   to list the available packages
+  #camlp4o;;                to load camlp4 (standard syntax)
+  #camlp4r;;                to load camlp4 (revised syntax)
+  #predicates "p,q,...";;   to set these predicates
+  Topfind.reset();;         to force that packages will be reloaded
+  #thread;;                 to enable threads
+
+- : unit = ()
+/Users/ewenmaclean/.opam/imandra/lib/bytes: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/zip: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/camlzip: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/ocaml/compiler-libs: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/containers/monomorphic: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/result: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/uchar: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/containers: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/sha: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/zarith: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/imandra-base/util: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/octavius: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/uuidm: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/easy-format: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/biniou: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/yojson: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/imandra-base/surface: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/imandra-base/syntax: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/curly: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/findlib: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/imandra-base/codegen: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/imandra-base/protocol: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/menhirLib: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/ppx_derivers: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/ocaml-migrate-parsetree: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/imandra-reason-parser: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/imandra-base/reason: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/linenoise: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/num-top: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/num: added to search path
+/Users/ewenmaclean/.opam/imandra/lib/imandra-base/interactive: added to search path

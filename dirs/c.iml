@@ -1,4 +1,0 @@
-[@@@import "a.iml"];;
-
-open A;; 
-let c x = a x*2;;
